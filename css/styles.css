@@ -1,8 +1,9 @@
 body{
-    background:#fff
+    background:#000;
 }
 
 h1 {
+    color: #f1c9d8;
     font-size: 2em;
     text-transform: uppercase;
     text-align: center;
